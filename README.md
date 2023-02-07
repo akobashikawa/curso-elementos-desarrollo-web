@@ -1,6 +1,6 @@
 # Curso Elementos de Desarrollo Web
 
-## Sesiones grabadas
+## Sesiones grabadas y ejemplos relacionados
 
 - [Curso Elementos de Desarrollo Web - 01 Página Web [Grabación]](https://youtu.be/ncBT6u6dxAQ)
 - [Curso Elementos de Desarrollo Web - 02 Frontend y Backend, Git [Grabación]](https://youtu.be/bV9Rdkax6JEQ)
