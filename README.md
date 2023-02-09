@@ -11,3 +11,5 @@
   - [Express - Hola Mundo](https://github.com/akobashikawa/express-hola-mundo)
 - [Curso Elementos de Desarrollo Web - 06 ExpressJS MVC [Grabación]](https://youtu.be/mwBk7PP40HE)
   - [Express - Contacto](https://github.com/akobashikawa/express-contacto)
+- [Curso Elementos de Desarrollo Web - 07 ExpressJS API REST App, VueJS [Grabación]](https://youtu.be/NhZUtPdGFEI)
+  - [Express - Contacto](https://github.com/akobashikawa/express-contacto)
