@@ -27,3 +27,7 @@
 - [Curso Elementos de Desarrollo Web - 07 ExpressJS API REST App, VueJS [Grabación]](https://youtu.be/NhZUtPdGFEI)
   - [ppt](https://github.com/akobashikawa/curso-elementos-desarrollo-web/raw/master/ppt/Curso%20Elementos%20de%20Desarrollo%20Web%20-%20s7.pptx)
   - [Express - Contacto](https://github.com/akobashikawa/express-contacto)
+
+- [Curso Elementos de Desarrollo Web - 08 ExpressJS API REST App, VueJS [Grabación]](https://youtu.be/2Uj9WNmaWsw)
+  - [ppt](https://github.com/akobashikawa/curso-elementos-desarrollo-web/raw/master/ppt/Curso%20Elementos%20de%20Desarrollo%20Web%20-%20s8.pptx)
+  - [Express - Personas](https://github.com/akobashikawa/express-personas)
