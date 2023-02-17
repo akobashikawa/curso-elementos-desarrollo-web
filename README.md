@@ -1,4 +1,6 @@
-![](webdev.png)
+<p align="center">
+  <img src="webdev.png" width="200"/>
+</p>
 
 # Curso Elementos de Desarrollo Web
 
