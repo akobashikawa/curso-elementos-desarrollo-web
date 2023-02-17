@@ -1,3 +1,5 @@
+![](webdev.png)
+
 # Curso Elementos de Desarrollo Web
 
 ## Sesiones grabadas y ejemplos relacionados
