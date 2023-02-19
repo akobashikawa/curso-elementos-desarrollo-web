@@ -1,3 +1,3 @@
-# Curso Elementos de Desarrollo Web
+# Acerca del curso
 
-con Antonio Kobashikawa C.
+Presentado por: [Antonio Kobashikawa C. ](mailto:akobashikawa@gmail.com)
