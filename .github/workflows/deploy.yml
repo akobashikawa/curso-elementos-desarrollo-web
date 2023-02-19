@@ -22,7 +22,9 @@ jobs:
     - name: Build and Deploy
       run: |
         npm ci
-        npm run deploy2
+        npm run build
+        git add src/.vuepress/dist && git commit -m "Updated dist"
+        git subtree push --prefix src/.vuepress/dist origin gh-pages
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         VUEPRESS_BASE: "/curso-elementos-desarrollo-web/"
