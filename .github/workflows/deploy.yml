@@ -22,7 +22,7 @@ jobs:
     - name: Build and Deploy
       run: |
         npm ci
-        npm run build
+        npm run build2
         git add src/.vuepress/dist && git commit -m "Updated dist"
         git subtree push --prefix src/.vuepress/dist origin gh-pages
       env:
