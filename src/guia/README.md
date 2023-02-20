@@ -4,13 +4,17 @@ Presentado por: [Antonio Kobashikawa C. ](mailto:akobashikawa@gmail.com?subject=
 
 ## Objetivos
 
-- Conoce cómo desarrollar páginas web y aplicaciones web.
+- Conocer cómo desarrollar páginas web y aplicaciones web.
 - Experimetar trabajar con dos plataformas de desarrollo alternativas.
 
 ## Contenido
 
 - Página web
 - Sites estáticos
+	- HTML
+	- CSS
+	- Javascript
+	- Bootstrap
 - Páginas dinámicas
 - Frontend y Backend
 	- SPA: Single Page Application
@@ -31,11 +35,15 @@ Presentado por: [Antonio Kobashikawa C. ](mailto:akobashikawa@gmail.com?subject=
 
 - Hola Mundo
 	- Mostrar contenido estático
+		- [Hola Mundo con Bootstrap](https://github.com/akobashikawa/hola-mundo)
 - Aviso
 	- Mostrar contenido dinámico
+		- [Hola Mundo webapp con Express](https://github.com/akobashikawa/express-hola-mundo)
 - Hola
 	- Mostrar una respuesta del backend
+		- [Formulario de Contacto con Express MVC](https://github.com/akobashikawa/express-contacto)
 - Personas
 	- Manejar una lista de personas
+		- [Ejemplo de API REST con ExpressJS](https://github.com/akobashikawa/express-personas)
 - Notas
 	- Manejar una lista de notas
