@@ -42,8 +42,8 @@
 
 - [Curso Elementos de Desarrollo Web - 10 Spring Boot API REST App, VueJS [Grabación]](https://youtu.be/FSC6yZYqGEs)
   - [ppt](https://github.com/akobashikawa/curso-elementos-desarrollo-web/raw/master/ppt/Curso%20Elementos%20de%20Desarrollo%20Web%20-%20s10.pptx)
-  - [Express - Personas](https://github.com/akobashikawa/springboot-personas)
+  - [Spring Boot - Personas](https://github.com/akobashikawa/springboot-personas)
 
 - [Curso Elementos de Desarrollo Web - 11 Spring Boot API REST App, VueJS [Grabación]](https://youtu.be/tp1F_yF4J7A)
   - [ppt](https://github.com/akobashikawa/curso-elementos-desarrollo-web/raw/master/ppt/Curso%20Elementos%20de%20Desarrollo%20Web%20-%20s11.pptx)
-  - [Express - Personas](https://github.com/akobashikawa/springboot-personas)
+  - [Spring Boot - Personas](https://github.com/akobashikawa/springboot-personas)
