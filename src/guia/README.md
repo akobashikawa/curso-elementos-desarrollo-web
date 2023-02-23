@@ -45,5 +45,6 @@ Presentado por: [Antonio Kobashikawa C. ](mailto:akobashikawa@gmail.com?subject=
 - Personas
 	- Manejar una lista de personas
 		- [Ejemplo de API REST con ExpressJS](https://github.com/akobashikawa/express-personas)
+		- [Ejemplo de API REST con Spring Boot](https://github.com/akobashikawa/springboot-personas)
 - Notas
 	- Manejar una lista de notas

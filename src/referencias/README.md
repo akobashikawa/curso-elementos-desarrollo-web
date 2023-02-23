@@ -28,11 +28,11 @@
 - [ExpressJS](https://expressjs.com/es/)
 	- Framework para construir servicios web con NodeJS
 - [Express application generator](https://expressjs.com/en/starter/generator.html)
-	- Utilidad para generar un template express
+	- Utilidad para generar un scaffold de aplicación web con express
 - [Spring Boot](https://spring.io/)
 	- Framework para construir servicios web con Java
 - [Spring Boot Initializr](https://start.spring.io/)
-	- Utilidad para generar un template spring boot
+	- Utilidad para generar un scaffold de aplicación web con spring boot
 
 ## Devops
 
