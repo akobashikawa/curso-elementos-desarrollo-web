@@ -47,3 +47,10 @@
 - [Curso Elementos de Desarrollo Web - 11 Spring Boot API REST App, VueJS [Grabación]](https://youtu.be/tp1F_yF4J7A)
   - [ppt](https://github.com/akobashikawa/curso-elementos-desarrollo-web/raw/master/ppt/Curso%20Elementos%20de%20Desarrollo%20Web%20-%20s11.pptx)
   - [Spring Boot - Personas](https://github.com/akobashikawa/springboot-personas)
+
+- [Curso Elementos de Desarrollo Web - 12 Spring Boot API REST App, Angular [Grabación]](https://youtu.be/tp1F_yF4J7A)
+  - [ppt](https://github.com/akobashikawa/curso-elementos-desarrollo-web/raw/master/ppt/Curso%20Elementos%20de%20Desarrollo%20Web%20-%20s12.pptx)
+  - [Vue - Personas](https://github.com/akobashikawa/vue-personas)
+  - [Angular - Personas](https://github.com/akobashikawa/angular-personas)
+  - [Express - Personas](https://github.com/akobashikawa/express-personas)
+  - [Spring Boot - Personas](https://github.com/akobashikawa/springboot-personas)
