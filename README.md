@@ -55,5 +55,5 @@
   - [Express - Personas](https://github.com/akobashikawa/express-personas)
   - [Spring Boot - Personas](https://github.com/akobashikawa/springboot-personas)
 
-- Curso Elementos de Desarrollo Web - 13 Desarrollo Progresivo
+- [Curso Elementos de Desarrollo Web - 13 Desarrollo Progresivo](https://youtu.be/BA6sflzJbsU)
   - [ppt](https://github.com/akobashikawa/curso-elementos-desarrollo-web/raw/master/ppt/Curso%20Elementos%20de%20Desarrollo%20Web%20-%20s13.pptx)
