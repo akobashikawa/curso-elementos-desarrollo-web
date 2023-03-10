@@ -88,6 +88,10 @@ Presentado por: [Antonio Kobashikawa C. ](mailto:akobashikawa@gmail.com?subject=
 - [Curso Elementos de Desarrollo Web - 14 Swagger, Frontend Primero](https://youtu.be/mn9cSkFsV48)
 	- [ppt](https://github.com/akobashikawa/curso-elementos-desarrollo-web/raw/master/ppt/Curso%20Elementos%20de%20Desarrollo%20Web%20-%20s14.pptx)
 
+- [Curso Elementos de Desarrollo Web - 15 Notas de Personas](https://youtu.be/4C0DX56Qg8s)
+	- [ppt](https://github.com/akobashikawa/curso-elementos-desarrollo-web/raw/master/ppt/Curso%20Elementos%20de%20Desarrollo%20Web%20-%20s15.pptx)
+	- [Spring Boot - Personas](https://github.com/akobashikawa/springboot-personas)
+
 ## Ejemplos
 
 - Hola Mundo
