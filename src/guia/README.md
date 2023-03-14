@@ -90,11 +90,11 @@ Presentado por: [Antonio Kobashikawa C. ](mailto:akobashikawa@gmail.com?subject=
 
 - [Curso Elementos de Desarrollo Web - 15 Notas de Personas](https://youtu.be/4C0DX56Qg8s)
 	- [ppt](https://github.com/akobashikawa/curso-elementos-desarrollo-web/raw/master/ppt/Curso%20Elementos%20de%20Desarrollo%20Web%20-%20s15.pptx)
-	- [Spring Boot - Personas](https://github.com/akobashikawa/springboot-personas)
+	- [Personas Notas](https://github.com/akobashikawa/springboot-personas/tree/personas-notas)
 
 - [Curso Elementos de Desarrollo Web - 16 Notas de Personas](https://youtu.be/03pHvQ9_p20)
 	- [ppt](https://github.com/akobashikawa/curso-elementos-desarrollo-web/raw/master/ppt/Curso%20Elementos%20de%20Desarrollo%20Web%20-%20s16.pptx)
-	- [Spring Boot - Personas](https://github.com/akobashikawa/springboot-personas)
+	- [Personas Notas Personales H2](https://github.com/akobashikawa/springboot-personas/tree/personas-notas-personales-h2)
 
 ## Ejemplos
 
