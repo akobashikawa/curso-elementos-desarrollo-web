@@ -92,6 +92,10 @@ Presentado por: [Antonio Kobashikawa C. ](mailto:akobashikawa@gmail.com?subject=
 	- [ppt](https://github.com/akobashikawa/curso-elementos-desarrollo-web/raw/master/ppt/Curso%20Elementos%20de%20Desarrollo%20Web%20-%20s15.pptx)
 	- [Spring Boot - Personas](https://github.com/akobashikawa/springboot-personas)
 
+- [Curso Elementos de Desarrollo Web - 16 Notas de Personas](https://youtu.be/03pHvQ9_p20)
+	- [ppt](https://github.com/akobashikawa/curso-elementos-desarrollo-web/raw/master/ppt/Curso%20Elementos%20de%20Desarrollo%20Web%20-%20s16.pptx)
+	- [Spring Boot - Personas](https://github.com/akobashikawa/springboot-personas)
+
 ## Ejemplos
 
 - Hola Mundo
@@ -111,3 +115,5 @@ Presentado por: [Antonio Kobashikawa C. ](mailto:akobashikawa@gmail.com?subject=
 		- [Ejemplo de API REST con Spring Boot](https://github.com/akobashikawa/springboot-personas)
 - Notas
 	- Manejar una lista de notas
+		- [Personas Notas](https://github.com/akobashikawa/springboot-personas/tree/personas-notas)
+		- [Personas Notas Personales H2](https://github.com/akobashikawa/springboot-personas/tree/personas-notas-personales-h2)
